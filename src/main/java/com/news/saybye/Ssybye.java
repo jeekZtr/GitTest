@@ -21,5 +21,9 @@ public class Ssybye {
 
 		System.out.println("say bay dev complete");
 	}
+	
+	public static void sayChz() {
+		System.out.println(1);
+	}
 
 }
