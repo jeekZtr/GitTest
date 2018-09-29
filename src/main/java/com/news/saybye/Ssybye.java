@@ -25,6 +25,7 @@ public class Ssybye {
 	public static void sayChz() {
 		System.out.println(1);
 		System.out.println(2);
+		System.out.println(3 + "complete");
 	}
 
 }
